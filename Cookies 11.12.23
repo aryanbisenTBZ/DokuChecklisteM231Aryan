@@ -1,1 +1,12 @@
 Cookies
+
+Cookies sind Textdateien, die auf dem Gerät gespeichert werden. Sie werden eingesetzt, um die Webseite benutzerfreundlicher zu machen. Sie können Daten änderungen Speichern, die man vorgenommen haat. Zum Beispiel den warenkorb
+
+HTTP: Es ist nur zuständig für das Kommunizieren zwischen Computer und Server. Nichts anderes. Es sendet und erhält Daten vom Server und vergisst den Rest. Dort kommen sie Sessionen ins Spiel. Sie sorgen dafür, dass der Benutzer eine benutzerfreundliche Erfahrung machen kann. Es sorgt dafür, dass die Webseite zum Beispiel nicht nach jedem respond neugeladen wird und die alten Daten gelöscht werden.
+
+ Inspektor: Diese schlüsselt die innere Struktur einer Webseite auf, das sogenannte Document Object Model, kurz: DOM. 
+Dabei handelt es sich um einen hierarchischen Baum, dessen Äste einzelnen HTML-Tags entsprechen.
+
+-Werden Cookies im Browser gespechert?
+Ja. 
+Die meisten Cookies sind für gute Zwecken
